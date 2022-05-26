@@ -1,0 +1,7 @@
+{
+    "name": "wails-preact",
+    "longname": "wails-preact-vite-template",
+    "author": "CM-IV",
+    "description": "A Wails template with Preact, Vitejs, and Bulma CSS styling.",
+    "helpurl": "https://github.com/CM-IV/wails-preact-vite-template"
+}
